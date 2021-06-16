@@ -111,5 +111,3 @@ class LinebotController < ApplicationController
     }
   end
 end
-class LinebotController < ApplicationController
-end
