@@ -56,6 +56,3 @@ task :update_feed => :environment do
   end
   "OK"
 end
-
-namespace :scheduler do
-end
